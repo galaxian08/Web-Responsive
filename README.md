@@ -2,8 +2,16 @@
 
 ![splicingweb](https://user-images.githubusercontent.com/64014794/100544699-0b379600-328a-11eb-8470-5cbdfb7ab3ce.png)
 
+-------------
 
+## Slicing web mockup figma
+### - Using:
+###### - HTML
+###### - CSS
+###### - Flexbox
+###### - Bootstrap
 
-## Tugas HTML,CSS & BOOTSTRAP
+-------------
 
-Tugas slicing halaman web dari mockup Figma dan membuat web secara responsive
+## Link netlify
+https://slicingwebrizkipermana.netlify.app/
