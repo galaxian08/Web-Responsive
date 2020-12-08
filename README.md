@@ -5,7 +5,7 @@
 -------------
 
 ## Slicing web mockup figma
-### - Using:
+### Using:
 ###### - HTML5
 ###### - CSS3
 ###### - Flexbox
